@@ -2,17 +2,23 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UIManager : MonoBehaviour
+public class BattleManager : MonoBehaviour
 {
+    [SerializeField]
+    // stats from enemy & player
+    private Stats playerStats, enemyStats;
+    private GameObject attackMenu;
+    
     // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
-    void Update()
+    void nextTurn()
     {
         
     }
+
+    
 }
