@@ -2574,17 +2574,17 @@ PrefabInstance:
     - target: {fileID: 453662970199603629, guid: b489cd1af9548475f94f383543e93a01,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 2
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 453662970199603629, guid: b489cd1af9548475f94f383543e93a01,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 2
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 453662970199603629, guid: b489cd1af9548475f94f383543e93a01,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 2
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 1134155847, guid: b489cd1af9548475f94f383543e93a01, type: 3}
       propertyPath: minionScene
@@ -3153,12 +3153,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fcffee5bff422c49a6db523b15ad1eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 0
-  Atk: 0
-  Def: 0
-  Int: 0
-  Drg: 0
-  Spd: 0
+  HP: 40
+  Atk: 40
+  Def: 40
+  Int: 40
+  Drg: 40
+  Spd: 40
   UIdisp: {fileID: 1482080324}
   all_stats: []
 --- !u!1 &876358523
@@ -6427,12 +6427,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fcffee5bff422c49a6db523b15ad1eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  HP: 0
-  Atk: 0
-  Def: 0
-  Int: 0
-  Drg: 0
-  Spd: 0
+  HP: 20
+  Atk: 20
+  Def: 20
+  Int: 20
+  Drg: 20
+  Spd: 20
   UIdisp: {fileID: 1670033996}
   all_stats: []
 --- !u!4 &1769896745 stripped
@@ -6697,7 +6697,7 @@ MonoBehaviour:
   PlayHealth: {fileID: 0}
   EnemyHealth: {fileID: 0}
   LevelOne: {fileID: 307709241}
-  Battle: {fileID: 0}
+  Battle: {fileID: 5854136714588781687}
   menuItems: {fileID: 838175378}
   attackItems: {fileID: 1029995979}
   player: {fileID: 600148641}
@@ -8756,6 +8756,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5854136714588781685}
   - component: {fileID: 5854136714588781686}
+  - component: {fileID: 5854136714588781687}
   m_Layer: 0
   m_Name: MinionBattle
   m_TagString: Untagged
@@ -8879,6 +8880,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &5854136714588781687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5854136714588781684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd85aba49ab746aa85e032b5e04984b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 793733835}
+  Enemy: {fileID: 1769896746}
 --- !u!4 &5854136714834341756
 Transform:
   m_ObjectHideFlags: 0
