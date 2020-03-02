@@ -19,6 +19,7 @@ public class EnemyMove : MonoBehaviour
             enemy.transform.LookAt(player.transform);
             enemy.transform.position = Vector3.MoveTowards(enemy.transform.position, player.transform.position, speed);
         }
+        enemy.transform.position = new Vector3(enemy.transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position) + 1.5f, enemy.transform.position.z);
     }
 
 }

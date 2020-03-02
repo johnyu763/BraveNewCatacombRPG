@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class TutorialBossTrigger : MonoBehaviour
 {
-    public GameObject BattleObject;
     public GameObject MainLevel;
+    public InitBattle Battle;
     public Moving player;
     private Vector3 movePlace;
     private Animator anim;
@@ -16,6 +16,7 @@ public class TutorialBossTrigger : MonoBehaviour
     public float range = 1;
     public DialogueManager dialogue;
     private bool played = false;
+    public CameraFlipper cam;
 
     public float DesireDist { get => desireDist; set => desireDist = value; }
 
@@ -57,9 +58,18 @@ public class TutorialBossTrigger : MonoBehaviour
     IEnumerator VillainAttack()
     {
         anim.SetTrigger("Attack");
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(1f);
+        cam.FlipCamera();
+        yield return new WaitForSeconds(2f);
+
+        Battle.transform.position = new Vector3(
+           player.transform.position.x,
+           Terrain.activeTerrain.SampleHeight(transform.position) + 12f,
+           player.transform.position.z
+           );
         MainLevel.SetActive(false);
-        BattleObject.SetActive(true);
+        Battle.gameObject.SetActive(true);
+        Battle.UpdateValues();
     }
 
 }

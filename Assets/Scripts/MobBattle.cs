@@ -6,24 +6,46 @@ using UnityEngine.UI;
 
 public class MobBattle : MonoBehaviour
 {
-    public Slider Health;
+    public Slider PlayHealth;
+    public Slider EnemyHealth;
     public GameObject LevelOne;
-    public GameObject Battle;
+    public InitBattle Battle;
     public GameObject menuItems;
     public GameObject attackItems;
+    public Moving player;
+    public CameraFlipper cam;
     // Start is called before the first frame update
     void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    private void Update()
     {
         
     }
 
-    // Update is called once per frame
     private void OnTriggerEnter(Collider other)
     {
+        cam.FlipCamera();
+        StartCoroutine(BattleStartRoutine());
+    }
+
+    IEnumerator BattleStartRoutine()
+    {
+        yield return new WaitForSeconds(1.5f);
         LevelOne.SetActive(false);
-        Battle.SetActive(true);
         this.gameObject.SetActive(false);
-        Health.value = 1f;
+        Battle.gameObject.SetActive(true);
+        Battle.transform.position = new Vector3(
+           player.transform.position.x,
+           Terrain.activeTerrain.SampleHeight(transform.position) + 12f,
+           player.transform.position.z
+           );
+        Battle.UpdateValues();
+        PlayHealth.value = 1f;
+        EnemyHealth.value = 1f;
         attackItems.SetActive(false);
         menuItems.SetActive(true);
     }

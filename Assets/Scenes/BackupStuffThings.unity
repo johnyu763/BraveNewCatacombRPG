@@ -194,18 +194,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 889598}
   m_CullTransparentMesh: 0
---- !u!114 &2774488 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 393373922, guid: de38d80aa41ec4f4db762a5054c35a3b,
-    type: 3}
-  m_PrefabInstance: {fileID: 2577309102252999281}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &5739717 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9152745476658413449, guid: 6199cf56420ae4bb5a336af17abb4e2e,
@@ -224,11 +212,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88972d656b1f245de9eccd0bbb8e4be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: {fileID: 945900856}
+  PlayHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   LevelOne: {fileID: 307709241}
-  Battle: {fileID: 489493841}
+  Battle: {fileID: 0}
   menuItems: {fileID: 1875583074}
   attackItems: {fileID: 1261304114}
+  player: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!1 &50271942 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3682444871195895878, guid: 0270001369b4c499a9d7ea1fd2c7bb74,
@@ -393,7 +384,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &99879642
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -739,7 +730,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!154 &127247133
 TerrainCollider:
   m_ObjectHideFlags: 0
@@ -906,11 +897,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88972d656b1f245de9eccd0bbb8e4be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: {fileID: 945900856}
+  PlayHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   LevelOne: {fileID: 307709241}
-  Battle: {fileID: 489493841}
+  Battle: {fileID: 0}
   menuItems: {fileID: 1875583074}
   attackItems: {fileID: 1261304114}
+  player: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!1 &187351039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1365,11 +1359,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88972d656b1f245de9eccd0bbb8e4be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: {fileID: 945900856}
+  PlayHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   LevelOne: {fileID: 307709241}
-  Battle: {fileID: 489493841}
+  Battle: {fileID: 0}
   menuItems: {fileID: 1875583074}
   attackItems: {fileID: 1261304114}
+  player: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!1 &301946917
 GameObject:
   m_ObjectHideFlags: 0
@@ -1422,7 +1419,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &307709242
 Transform:
   m_ObjectHideFlags: 0
@@ -2754,6 +2751,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SiennaPause
       objectReference: {fileID: 0}
+    - target: {fileID: 4163046179888191290, guid: b691d61fceaec45f88e74fb949486ac0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4163046179888191269, guid: b691d61fceaec45f88e74fb949486ac0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3928,7 +3930,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &570223105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4459,7 +4461,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &648396215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4502,11 +4504,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainScreen: {fileID: 307709241}
-  Health: {fileID: 945900856}
+  PlayerHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   battle: {fileID: 489493841}
   LoadingScreen: {fileID: 0}
   progressSlider: {fileID: 0}
   progressText: {fileID: 0}
+  SpecialAttack: {fileID: 0}
+  canSpecial: 0
 --- !u!1 &651138372
 GameObject:
   m_ObjectHideFlags: 0
@@ -4956,18 +4961,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 805732184}
   m_CullTransparentMesh: 0
---- !u!114 &817325165 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 393373922, guid: de38d80aa41ec4f4db762a5054c35a3b,
-    type: 3}
-  m_PrefabInstance: {fileID: 5854136713718130238}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &838175378 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7867834671265513772, guid: de38d80aa41ec4f4db762a5054c35a3b,
@@ -6284,7 +6277,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1023946281
 Light:
   m_ObjectHideFlags: 0
@@ -7566,7 +7559,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1158290600
 AudioListener:
   m_ObjectHideFlags: 0
@@ -7910,7 +7903,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!154 &1244771154
 TerrainCollider:
   m_ObjectHideFlags: 0
@@ -7984,7 +7977,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1253975601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11208,7 +11201,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1662147100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11222,11 +11215,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainScreen: {fileID: 558490439}
-  Health: {fileID: 0}
+  PlayerHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   battle: {fileID: 1153442838}
   LoadingScreen: {fileID: 857903842}
   progressSlider: {fileID: 216750788}
   progressText: {fileID: 1982879616}
+  SpecialAttack: {fileID: 0}
+  canSpecial: 0
 --- !u!114 &1662147101
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12039,8 +12035,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lose: {fileID: 5854136715142795896}
   player: {fileID: 793733834}
+  EnemyHealth: {fileID: 0}
   menuItems: {fileID: 838175378}
   attackItems: {fileID: 1029995979}
+  minHeight: 0
 --- !u!1 &1772840923
 GameObject:
   m_ObjectHideFlags: 0
@@ -12555,8 +12553,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lose: {fileID: 648396217}
   player: {fileID: 449481904}
+  EnemyHealth: {fileID: 0}
   menuItems: {fileID: 1875583074}
   attackItems: {fileID: 1261304114}
+  minHeight: 0
 --- !u!1 &1861272957
 GameObject:
   m_ObjectHideFlags: 0
@@ -12619,11 +12619,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88972d656b1f245de9eccd0bbb8e4be5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: {fileID: 817325165}
+  PlayHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   LevelOne: {fileID: 307709241}
-  Battle: {fileID: 5854136714588781684}
+  Battle: {fileID: 0}
   menuItems: {fileID: 838175378}
   attackItems: {fileID: 1029995979}
+  player: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!114 &1877214792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13387,7 +13390,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2075714358
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17825,13 +17828,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ca50aeec3960499d8837609f25afb6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BattleObject: {fileID: 1153442838}
   MainLevel: {fileID: 558490439}
+  Battle: {fileID: 0}
   player: {fileID: 1513769823}
   speed: 0.2
   desireDist: 3
   range: 20
   dialogue: {fileID: 1452469020}
+  cam: {fileID: 0}
 --- !u!1001 &2577309102252999281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21703,6 +21707,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 7.059524
       objectReference: {fileID: 0}
+    - target: {fileID: 1866262871, guid: 2ae603367c08b4817ac387a5512c00bf, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 889457883, guid: 2ae603367c08b4817ac387a5512c00bf, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1382441856, guid: 2ae603367c08b4817ac387a5512c00bf, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ae603367c08b4817ac387a5512c00bf, type: 3}
 --- !u!4 &3354986161542341016 stripped
@@ -21928,7 +21944,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &4232442541799582537
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21942,11 +21958,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainScreen: {fileID: 307709241}
-  Health: {fileID: 2774488}
+  PlayerHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   battle: {fileID: 6279552425055874271}
   LoadingScreen: {fileID: 1401393648}
   progressSlider: {fileID: 0}
   progressText: {fileID: 0}
+  SpecialAttack: {fileID: 0}
+  canSpecial: 0
 --- !u!4 &4248787447493045297
 Transform:
   m_ObjectHideFlags: 0
@@ -25820,7 +25839,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5854136715142795895
 Transform:
   m_ObjectHideFlags: 0
@@ -25848,11 +25867,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainScreen: {fileID: 307709241}
-  Health: {fileID: 817325165}
+  PlayerHealth: {fileID: 0}
+  EnemyHealth: {fileID: 0}
   battle: {fileID: 5854136714588781684}
   LoadingScreen: {fileID: 0}
   progressSlider: {fileID: 0}
   progressText: {fileID: 0}
+  SpecialAttack: {fileID: 0}
+  canSpecial: 0
 --- !u!1001 &5854136715288124657
 PrefabInstance:
   m_ObjectHideFlags: 0
