@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: acad7c533dee6478f9894f751fbf9e6c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: News Gothic Std
+  fontNames:
+  - News Gothic Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5341d74270a2c41f883a9a0b101481e5, type: 3}
+  - {fileID: 12800000, guid: 8e150d4ba36a34d9d9aa9915dcab9032, type: 3}
+  - {fileID: 12800000, guid: 30ce9d6b0e1dc4aa89b1c091184d7a4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
