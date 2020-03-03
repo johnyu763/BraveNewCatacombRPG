@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2526484791248540723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2526484791248540721}
+  - component: {fileID: 2526484791248540722}
+  m_Layer: 0
+  m_Name: MyCrawl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2526484791248540721
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2526484791248540723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 72.235}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2526484791248540722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2526484791248540723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1917bd028515d74b9783513e4737b50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FontBody: {fileID: 12800000, guid: 88692c317ce05ef419566837570bf052, type: 3}
+  CrawlSpeed: 20
+  ScrollStartY: -350
+  ScrollEndY: 1000
+  PlayOnStart: 1
+  Text: "Brave New Catacomb Episode I\n\nAfter years of fighting for the System of
+    Icarus (aka Icarus), the Crow \nsisters have served the crown, Mustaphon III,
+    with absolute devotion. \nKinth\u2019s Revolt (named after the radical revolutionary
+    and the father \nof the Crow sisters) has left Icarus in utter shambles and the
+    national \ntreasury near empty. At the end of the conflict, Kinth was nowhere
+    \nto be found, and, despite their utter devotion to the crown, both \nsisters
+    were being suspected of treason. Mustaphon III admired their \ndevotion, but had
+    to follow public opinion otherwise suffer another revolt. \nThus, he offered them
+    each a chance. Whichever bested the other in a \nduel to the death would be allowed
+    to continue serving him or have \nboth of them banished. "
+  FontSize: 20
