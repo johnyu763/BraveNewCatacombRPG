@@ -36,8 +36,10 @@ public class TutorialBossTrigger : MonoBehaviour
 
         }
         else if (!played && dist <= range && dist > desireDist) {
-            anim.SetFloat("Speed", 1);
+            anim.SetFloat("Speed", 1f);
+
             this.transform.LookAt(player.transform);
+
             this.transform.position = Vector3.MoveTowards(this.transform.position, player.transform.position, speed);
         }
 
