@@ -44,8 +44,7 @@ public class MobBattle : MonoBehaviour
            player.transform.position.z
            );
         Battle.UpdateValues();
-        PlayHealth.value = 1f;
-        EnemyHealth.value = 1f;
+        
         attackItems.SetActive(false);
         menuItems.SetActive(true);
     }

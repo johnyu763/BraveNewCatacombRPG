@@ -26,7 +26,8 @@ public class getDamage : MonoBehaviour
         float Int = PlayerPrefs.GetFloat("Int1");
         float Drg = PlayerPrefs.GetFloat("Drg1");
         float Spd = PlayerPrefs.GetFloat("Spd1");
-        float [] all_stats = new float[]{HP, Atk, Def, Int, Drg, Spd};
+        float EXP = PlayerPrefs.GetFloat("EXP1");
+        float [] all_stats = new float[]{HP, Atk, Def, Int, Drg, Spd, EXP};
         PlayerStats.setStats(all_stats);
         PlayerHealth.maxValue = PlayerStats.getHP();
         PlayerHealth.value = PlayerHealth.maxValue;
@@ -50,19 +51,22 @@ public class getDamage : MonoBehaviour
 
     public void DmgEnemy(float mult)
     {
+        Debug.Log("Enemy Health: "+EnemyHealth.value);
+        Debug.Log("Max Enemy Health: "+EnemyHealth.maxValue);
         var damage = Random.Range(0.2f, 0.35f) * mult * PlayerStats.getAtk();
         if (EnemyHealth.value - damage > 0f) {
             EnemyHealth.value -= damage;
         }
         else if(EnemyHealth.value - damage <= 0f)
         {
-            EnemyHealth.value = 0f;
             StartCoroutine(WinRoutine());
         }
 
     }
     public void DmgPlayer(float mult=1f)
     {
+        Debug.Log("Player Health: "+PlayerHealth.value);
+        Debug.Log("Max Player Health: "+PlayerHealth.maxValue);
         var damage = Random.Range(0.2f, 0.35f)*EnemyStats.getAtk();
         if (PlayerHealth.value-damage > 0f)
         {
@@ -125,6 +129,8 @@ public class getDamage : MonoBehaviour
     {
         EnemyHealth.value = 0f;
         yield return new WaitForSeconds(1.5f);
+        PlayerStats.addEXP(EnemyStats.getHP());
+        EnemyHealth.value = EnemyHealth.maxValue;
         PlayerHealth.value = PlayerHealth.maxValue;
         battle.SetActive(false);
         mainScreen.SetActive(true);

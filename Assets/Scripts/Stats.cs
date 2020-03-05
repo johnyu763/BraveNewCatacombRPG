@@ -8,7 +8,7 @@ public class Stats : MonoBehaviour
 {
     // Class used to denote character stats in the game.
     [SerializeField]
-    float HP, Atk, Def, Int, Drg, Spd; // vars representing Stats
+    float HP, Atk, Def, Int, Drg, Spd, EXP; // vars representing Stats
     [SerializeField]
     TMP_Text UIdisp; // textBox that shows UI
     [SerializeField]
@@ -22,8 +22,8 @@ public class Stats : MonoBehaviour
     public void Start()
     {
         // initializes stat arrays
-        all_stats = new float[]{HP, Atk, Def, Int, Drg, Spd};
-        stat_names = new string[] {"HP", "Atk", "Def", "Int", "Drg", "Spd"};
+        all_stats = new float[]{HP, Atk, Def, Int, Drg, Spd, EXP};
+        stat_names = new string[] {"HP", "Atk", "Def", "Int", "Drg", "Spd", "EXP"};
         counter++;
         // initializes UI Objects
         if(UIdisp)
@@ -62,6 +62,14 @@ public class Stats : MonoBehaviour
         Int = new_stats[3];
         Drg = new_stats[4];
         Spd = new_stats[5];
+        EXP = new_stats[6];
+    }
+
+    public void addEXP(float newEXP)
+    {
+        EXP += newEXP;
+        PlayerPrefs.SetFloat("EXP" + "1", EXP);
+        Debug.Log("EXP: " + EXP);
     }
     // code used to make stats global
     
