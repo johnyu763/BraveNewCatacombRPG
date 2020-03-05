@@ -17,6 +17,7 @@ public class TutorialBossTrigger : MonoBehaviour
     public DialogueManager dialogue;
     private bool played = false;
     public CameraFlipper cam;
+    public KingScript king;
 
     public float DesireDist { get => desireDist; set => desireDist = value; }
 
@@ -37,7 +38,7 @@ public class TutorialBossTrigger : MonoBehaviour
         }
         else if (!played && dist <= range && dist > desireDist) {
             anim.SetFloat("Speed", 1f);
-
+            king.canMove = true;
             this.transform.LookAt(player.transform);
 
             this.transform.position = Vector3.MoveTowards(this.transform.position, player.transform.position, speed);

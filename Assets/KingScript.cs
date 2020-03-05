@@ -8,6 +8,7 @@ public class KingScript : MonoBehaviour
     public float desireDist = 0;
     private float dist;
     private Animator anim;
+    public bool canMove;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,11 +21,11 @@ public class KingScript : MonoBehaviour
         dist = Vector3.Distance(this.transform.position, player.transform.position);
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position), transform.position.z);
 
-        if (dist <= desireDist+0.3f)
+        if (dist <= desireDist)
         {
             anim.SetFloat("Speed", 0f);
         }
-        else if (dist <= 20f && dist > desireDist)
+        else if (canMove && dist <= 20f && dist > desireDist)
         {
             anim.SetFloat("Speed", 1f);
             this.transform.LookAt(new Vector3(-2f * player.transform.position.x, player.transform.position.y, player.transform.position.z));
