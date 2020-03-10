@@ -5416,6 +5416,27 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
+<<<<<<< HEAD
+=======
+        time: 0.4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.46666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+>>>>>>> Story
         time: 0.48333335
         value: 0
         inSlope: Infinity
@@ -5428,7 +5449,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
+<<<<<<< HEAD
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Colt_Python
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Colt_Python
+>>>>>>> Story
     classID: 1
     script: {fileID: 0}
   m_PPtrCurves: []
@@ -5748,7 +5773,11 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       path: 180412317
+=======
+      path: 1262316806
+>>>>>>> Story
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -28297,6 +28326,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -28325,6 +28355,8 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+=======
+>>>>>>> Story
         value: 0.113373265
         inSlope: 0
         outSlope: 0
@@ -28432,6 +28464,55 @@ AnimationClip:
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandThumb1/Character1_LeftHandThumb2/Character1_LeftHandThumb3
     classID: 4
     script: {fileID: 0}
+<<<<<<< HEAD
+=======
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.4
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.46666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.48333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Colt_Python
+    classID: 1
+    script: {fileID: 0}
+>>>>>>> Story
   m_EulerEditorCurves:
   - curve:
       serializedVersion: 2

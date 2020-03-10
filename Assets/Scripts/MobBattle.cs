@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class MobBattle : MonoBehaviour
 {
-    public Slider Health;
     public GameObject LevelOne;
     public InitBattle Battle;
     public GameObject menuItems;
@@ -20,9 +19,10 @@ public class MobBattle : MonoBehaviour
     }
 
     // Update is called once per frame
+
     private void Update()
     {
-        
+
     }
 
     private void OnTriggerEnter(Collider other)
@@ -31,10 +31,12 @@ public class MobBattle : MonoBehaviour
         StartCoroutine(BattleStartRoutine());
     }
 
+
     IEnumerator BattleStartRoutine()
     {
         yield return new WaitForSeconds(1.5f);
         LevelOne.SetActive(false);
+        this.gameObject.SetActive(false);
         Battle.gameObject.SetActive(true);
         Battle.transform.position = new Vector3(
            player.transform.position.x,
@@ -42,8 +44,7 @@ public class MobBattle : MonoBehaviour
            player.transform.position.z
            );
         Battle.UpdateValues();
-        this.gameObject.SetActive(false);
-        Health.value = 1f;
+        
         attackItems.SetActive(false);
         menuItems.SetActive(true);
     }

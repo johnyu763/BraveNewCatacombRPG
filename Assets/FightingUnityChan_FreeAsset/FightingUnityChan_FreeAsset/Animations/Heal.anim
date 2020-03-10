@@ -4460,6 +4460,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.26666668
         value: 0
         inSlope: Infinity
@@ -4478,6 +4479,8 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
+=======
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: 0
         inSlope: Infinity
@@ -4846,6 +4849,7 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 1932115213
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       attribute: 2
       script: {fileID: 0}
       typeID: 4
@@ -4867,6 +4871,8 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 1762679429
+=======
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       attribute: 2
       script: {fileID: 0}
       typeID: 4
@@ -4950,6 +4956,7 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       path: 3145869765
       attribute: 2
       script: {fileID: 0}
@@ -4958,6 +4965,9 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 3124773874
+=======
+      path: 2906389981
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       attribute: 2
       script: {fileID: 0}
       typeID: 4
@@ -5055,6 +5065,7 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       path: 181471831
       attribute: 2086281974
       script: {fileID: 0}
@@ -5066,6 +5077,44 @@ AnimationClip:
       attribute: 1
       script: {fileID: 0}
       typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2304978472
+=======
+      path: 364561009
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1816418694
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2760676395
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4132341184
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 181471831
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
@@ -5083,6 +5132,9 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      path: 848836861
+=======
       path: 179406123
       attribute: 2
       script: {fileID: 0}
@@ -5112,13 +5164,14 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 1496916529
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       attribute: 2
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 848836861
+      path: 1249182047
       attribute: 2
       script: {fileID: 0}
       typeID: 4
@@ -18008,6 +18061,7 @@ AnimationClip:
         value: -0.00822062
         inSlope: 0
         outSlope: -0.0020737448
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -18035,19 +18089,29 @@ AnimationClip:
         value: 0.047225747
         inSlope: -0.6436743
         outSlope: -0.52870804
+=======
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: -0.00822062
         inSlope: 0.055208795
         outSlope: 0
+=======
+        time: 0.15
+        value: 0.15811056
+        inSlope: 0.6851554
+        outSlope: 0.7407368
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -18063,38 +18127,87 @@ AnimationClip:
         value: -0.07684867
         inSlope: 0
         outSlope: 0.015944242
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.15
-        value: -0.04936731
-        inSlope: 0.12670954
-        outSlope: 0.12176112
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+=======
       - serializedVersion: 3
         time: 0.28333333
-        value: -0.038677663
-        inSlope: -0.062417243
-        outSlope: -0.0628084
+        value: 0.21939526
+        inSlope: -0.34455213
+        outSlope: -0.34891072
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
-        value: -0.06793164
-        inSlope: -0.10650606
-        outSlope: -0.11685489
+        value: 0.047225747
+        inSlope: -0.6436743
+        outSlope: -0.52870804
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.15
+        value: -0.04936731
+        inSlope: 0.12670954
+        outSlope: 0.12176112
+=======
+        time: 0.5
+        value: -0.00822062
+        inSlope: 0.055208795
+        outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      - serializedVersion: 3
+        time: 0.28333333
+        value: -0.038677663
+        inSlope: -0.062417243
+        outSlope: -0.0628084
+=======
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07684867
+        inSlope: 0
+        outSlope: 0.015944242
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.41666666
+        value: -0.06793164
+        inSlope: -0.10650606
+        outSlope: -0.11685489
+=======
+        time: 0.15
+        value: -0.04936731
+        inSlope: 0.12670954
+        outSlope: 0.12176112
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: -0.07684867
         inSlope: -0.018864868
@@ -18118,11 +18231,18 @@ AnimationClip:
         value: -0.050927002
         inSlope: 0
         outSlope: -0.014627973
+=======
+        time: 0.28333333
+        value: -0.038677663
+        inSlope: -0.062417243
+        outSlope: -0.0628084
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.15
         value: -0.08735824
         inSlope: -0.15467405
@@ -18145,14 +18265,25 @@ AnimationClip:
         value: -0.069693446
         inSlope: 0.18155204
         outSlope: 0.18149616
+=======
+        time: 0.41666666
+        value: -0.06793164
+        inSlope: -0.10650606
+        outSlope: -0.11685489
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.050927002
         inSlope: 0.012777747
+=======
+        value: -0.07684867
+        inSlope: -0.018864868
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18161,8 +18292,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.x
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+=======
+    attribute: m_LocalRotation.w
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -18170,44 +18306,73 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.17506483
         inSlope: 0
         outSlope: 0.07271767
+=======
+        value: -0.050927002
+        inSlope: 0
+        outSlope: -0.014627973
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.3562689
         inSlope: 0.886321
         outSlope: 0.8866616
+=======
+        value: -0.08735824
+        inSlope: -0.15467405
+        outSlope: -0.15435474
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.44592267
         inSlope: -0.2988747
         outSlope: -0.3037602
+=======
+        value: -0.10514419
+        inSlope: 0.06156308
+        outSlope: 0.062473122
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.26803145
         inSlope: -0.82768506
         outSlope: -0.82641846
+=======
+        value: -0.069693446
+        inSlope: 0.18155204
+        outSlope: 0.18149616
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.17506483
         inSlope: -0.062584884
+=======
+        value: -0.050927002
+        inSlope: 0.012777747
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18216,7 +18381,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.y
+=======
+    attribute: m_LocalRotation.x
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
     classID: 4
     script: {fileID: 0}
@@ -18225,44 +18394,73 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.0023956941
         inSlope: 0
         outSlope: -0.012951592
+=======
+        value: 0.17506483
+        inSlope: 0
+        outSlope: 0.07271767
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.034798417
         inSlope: -0.17213324
         outSlope: -0.17201261
+=======
+        value: 0.3562689
+        inSlope: 0.886321
+        outSlope: 0.8866616
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.051269498
         inSlope: 0.054442454
         outSlope: 0.055069108
+=======
+        value: 0.44592267
+        inSlope: -0.2988747
+        outSlope: -0.3037602
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.018881297
         inSlope: 0.13704413
         outSlope: 0.13658778
+=======
+        value: 0.26803145
+        inSlope: -0.82768506
+        outSlope: -0.82641846
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.0023956941
         inSlope: 0.0110548
+=======
+        value: 0.17506483
+        inSlope: -0.062584884
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18271,7 +18469,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.z
+=======
+    attribute: m_LocalRotation.y
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
     classID: 4
     script: {fileID: 0}
@@ -18280,44 +18482,73 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.98323596
         inSlope: 0
         outSlope: -0.01390775
+=======
+        value: -0.0023956941
+        inSlope: 0
+        outSlope: -0.012951592
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9296397
         inSlope: -0.36080676
         outSlope: -0.36018232
+=======
+        value: -0.034798417
+        inSlope: -0.17213324
+        outSlope: -0.17201261
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.8873946
         inSlope: 0.16093253
         outSlope: 0.16316773
+=======
+        value: -0.051269498
+        inSlope: 0.054442454
+        outSlope: 0.055069108
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.96070045
         inSlope: 0.24631621
         outSlope: 0.24676324
+=======
+        value: -0.018881297
+        inSlope: 0.13704413
+        outSlope: 0.13658778
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.98323596
         inSlope: 0.01192093
+=======
+        value: -0.0023956941
+        inSlope: 0.0110548
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18326,7 +18557,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.w
+=======
+    attribute: m_LocalRotation.z
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
     classID: 4
     script: {fileID: 0}
@@ -18335,44 +18570,73 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.07076517
         inSlope: 0
         outSlope: -0.016490618
+=======
+        value: 0.98323596
+        inSlope: 0
+        outSlope: -0.01390775
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.111504644
         inSlope: -0.17796953
         outSlope: -0.1776644
+=======
+        value: 0.9296397
+        inSlope: -0.36080676
+        outSlope: -0.36018232
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.13118394
         inSlope: 0.0669275
         outSlope: 0.06828458
+=======
+        value: 0.8873946
+        inSlope: 0.16093253
+        outSlope: 0.16316773
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.09181709
         inSlope: 0.19820409
         outSlope: 0.19803645
+=======
+        value: 0.96070045
+        inSlope: 0.24631621
+        outSlope: 0.24676324
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.07076517
         inSlope: 0.014454127
+=======
+        value: 0.98323596
+        inSlope: 0.01192093
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18381,8 +18645,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.x
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+=======
+    attribute: m_LocalRotation.w
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -18390,44 +18659,73 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.1264109
         inSlope: 0
         outSlope: 0.073711075
+=======
+        value: -0.07076517
+        inSlope: 0
+        outSlope: -0.016490618
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.31067646
         inSlope: 0.90817606
         outSlope: 0.90811926
+=======
+        value: -0.111504644
+        inSlope: -0.17796953
+        outSlope: -0.1776644
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.4026292
         inSlope: -0.30755994
         outSlope: -0.31203035
+=======
+        value: -0.13118394
+        inSlope: 0.0669275
+        outSlope: 0.06828458
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.22070082
         inSlope: -0.84254897
         outSlope: -0.84042555
+=======
+        value: -0.09181709
+        inSlope: 0.19820409
+        outSlope: 0.19803645
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.1264109
         inSlope: -0.063478954
+=======
+        value: -0.07076517
+        inSlope: 0.014454127
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -18436,7 +18734,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.y
+=======
+    attribute: m_LocalRotation.x
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
     classID: 4
     script: {fileID: 0}
@@ -18445,6 +18747,99 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.021301243
+        inSlope: 0
+        outSlope: -0.0076492624
+=======
+        value: 0.1264109
+        inSlope: 0
+        outSlope: 0.073711075
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.15
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.039873444
+        inSlope: -0.1031657
+        outSlope: -0.103392765
+=======
+        value: 0.31067646
+        inSlope: 0.90817606
+        outSlope: 0.90811926
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.26666668
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.04901132
+        inSlope: 0.029121125
+        outSlope: 0.029252844
+=======
+        value: 0.4026292
+        inSlope: -0.30755994
+        outSlope: -0.31203035
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.030845812
+        inSlope: 0.07255935
+        outSlope: 0.07253141
+=======
+        value: 0.22070082
+        inSlope: -0.84254897
+        outSlope: -0.84042555
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.021301243
+        inSlope: 0.0064820056
+=======
+        value: 0.1264109
+        inSlope: -0.063478954
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    attribute: m_LocalRotation.z
+=======
+    attribute: m_LocalRotation.y
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.9892213
+        inSlope: 0
+        outSlope: -0.010331471
+=======
         value: -0.021301243
         inSlope: 0
         outSlope: -0.0076492624
@@ -18457,11 +18852,18 @@ AnimationClip:
         value: -0.039873444
         inSlope: -0.1031657
         outSlope: -0.103392765
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.15
+        value: 0.9431102
+        inSlope: -0.32464662
+        outSlope: -0.32390866
+=======
         time: 0.26666668
         value: -0.04901132
         inSlope: 0.029121125
@@ -18475,19 +18877,30 @@ AnimationClip:
         value: -0.030845812
         inSlope: 0.07255935
         outSlope: 0.07253141
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.26666668
+        value: 0.9045873
+        inSlope: 0.1481601
+        outSlope: 0.15065075
+=======
         time: 0.5
         value: -0.021301243
         inSlope: 0.0064820056
         outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      - serializedVersion: 3
+=======
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -18526,6 +18939,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.4
         value: 0.97052014
         inSlope: 0.2127886
@@ -20768,6 +21182,7 @@ AnimationClip:
         value: 0.09459692
         inSlope: 0
         outSlope: 0.024400651
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -20777,20 +21192,30 @@ AnimationClip:
         value: 0.19162275
         inSlope: 0.26889145
         outSlope: 0.26755035
+=======
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.33333334
         value: 0.18578565
         inSlope: -0.3444403
         outSlope: -0.3459156
+=======
+        time: 0.2
+        value: 0.19162275
+        inSlope: 0.26889145
+        outSlope: 0.26755035
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: 0.09459692
         inSlope: -0.032097105
@@ -20832,14 +21257,25 @@ AnimationClip:
         value: 0.14825687
         inSlope: -0.32354143
         outSlope: -0.32472613
+=======
+        time: 0.33333334
+        value: 0.18578565
+        inSlope: -0.3444403
+        outSlope: -0.3459156
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.06301097
         inSlope: -0.029951336
+=======
+        value: 0.09459692
+        inSlope: -0.032097105
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -20848,7 +21284,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.z
+=======
+    attribute: m_LocalRotation.y
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
     classID: 4
     script: {fileID: 0}
@@ -20857,6 +21297,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99278945
         inSlope: 0
         outSlope: -0.003874302
@@ -20869,20 +21310,33 @@ AnimationClip:
         value: 0.9667216
         inSlope: -0.10073185
         outSlope: -0.10058283
+=======
+        value: 0.06301097
+        inSlope: 0
+        outSlope: 0.022761524
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.33333334
         value: 0.968859
         inSlope: 0.12293457
         outSlope: 0.12373925
+=======
+        time: 0.2
+        value: 0.1537287
+        inSlope: 0.2513826
+        outSlope: 0.25022775
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: 0.99278945
         inSlope: 0.0053644185
@@ -20915,14 +21369,25 @@ AnimationClip:
         value: 0.00626374
         inSlope: -0.00018440187
         outSlope: -0.00018440184
+=======
+        time: 0.33333334
+        value: 0.14825687
+        inSlope: -0.32354143
+        outSlope: -0.32472613
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0064778286
         inSlope: 0.001111999
+=======
+        value: 0.06301097
+        inSlope: -0.029951336
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -20931,8 +21396,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.x
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_A00
+=======
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -20940,23 +21410,37 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0061797234
         inSlope: 0
         outSlope: -0.011159107
+=======
+        value: 0.99278945
+        inSlope: 0
+        outSlope: -0.003874302
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.41666666
         value: 0.008628561
         inSlope: 0.0024586916
         outSlope: 0.0023581085
+=======
+        time: 0.2
+        value: 0.9667216
+        inSlope: -0.10073185
+        outSlope: -0.10058283
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: 0.0061415704
         inSlope: -0.0133886915
@@ -20980,23 +21464,26 @@ AnimationClip:
         value: -0.09567274
         inSlope: 0
         outSlope: -0.010102987
+=======
+        time: 0.33333334
+        value: 0.968859
+        inSlope: 0.12293457
+        outSlope: 0.12373925
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.41666666
         value: -0.09214154
         inSlope: -0.026106834
         outSlope: -0.026196238
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
+=======
         time: 0.5
-        value: -0.09569117
-        inSlope: -0.012785194
+        value: 0.99278945
+        inSlope: 0.0053644185
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21005,7 +21492,54 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006474618
+        inSlope: 0
+        outSlope: 0.00089742243
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.41666666
+        value: 0.00626374
+        inSlope: -0.00018440187
+        outSlope: -0.00018440184
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.09569117
+        inSlope: -0.012785194
+=======
+        value: 0.0064778286
+        inSlope: 0.001111999
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.z
+=======
+    attribute: m_LocalRotation.x
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_A00
     classID: 4
     script: {fileID: 0}
@@ -21014,24 +21548,37 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99537265
         inSlope: 0
         outSlope: -0.0008583069
+=======
+        value: 0.0061797234
+        inSlope: 0
+        outSlope: -0.011159107
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9956888
         inSlope: -0.0024318695
         outSlope: -0.002145767
+=======
+        value: 0.008628561
+        inSlope: 0.0024586916
+        outSlope: 0.0023581085
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99537104
         inSlope: -0.0014305114
         outSlope: 0
@@ -21054,23 +21601,59 @@ AnimationClip:
         value: 0.7048371
         inSlope: 0
         outSlope: 0.00071525574
+=======
+        value: 0.0061415704
+        inSlope: -0.0133886915
+        outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_A00
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.41666666
+        value: 0.7045239
+        inSlope: -0.020313263
+        outSlope: -0.020027159
+=======
+        time: 0
+        value: -0.09567274
+        inSlope: 0
+        outSlope: -0.010102987
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
-        value: 0.7045239
-        inSlope: -0.020313263
-        outSlope: -0.020027159
+        value: -0.09214154
+        inSlope: -0.026106834
+        outSlope: -0.026196238
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.7048391
         inSlope: 0.0028610227
+=======
+        value: -0.09569117
+        inSlope: -0.012785194
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21079,7 +21662,129 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.x
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
+=======
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_A00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.055516183
+        inSlope: 0
+        outSlope: -0.014805794
+=======
+        value: 0.99537265
+        inSlope: 0
+        outSlope: -0.0008583069
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.059746504
+        inSlope: 0.005507469
+        outSlope: 0.004649162
+=======
+        value: 0.9956888
+        inSlope: -0.0024318695
+        outSlope: -0.002145767
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.055471838
+        inSlope: -0.022530554
+=======
+        value: 0.99537104
+        inSlope: -0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    attribute: m_LocalRotation.y
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
+=======
+    attribute: m_LocalRotation.w
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_A00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.05727637
+        inSlope: 0
+        outSlope: 0.00064373016
+=======
+        value: 0.7048371
+        inSlope: 0
+        outSlope: 0.00071525574
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.056483805
+        inSlope: 0.0014305115
+        outSlope: 0.0014305114
+=======
+        value: 0.7045239
+        inSlope: -0.020313263
+        outSlope: -0.020027159
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.05728206
+        inSlope: 0.0053644176
+=======
+        value: 0.7048391
+        inSlope: 0.0028610227
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    attribute: m_LocalRotation.z
+=======
+    attribute: m_LocalRotation.x
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
     classID: 4
     script: {fileID: 0}
@@ -21088,24 +21793,41 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.7048702
+        inSlope: 0
+        outSlope: 0.0005722046
+=======
         value: 0.055516183
         inSlope: 0
         outSlope: -0.014805794
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.70490134
+        inSlope: 0.01988411
+        outSlope: 0.020027159
+=======
         value: 0.059746504
         inSlope: 0.005507469
         outSlope: 0.004649162
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.7048713
+        inSlope: 0.0007152557
+        outSlope: 0
+=======
         value: 0.055471838
         inSlope: -0.022530554
         outSlope: 0
@@ -21128,61 +21850,7 @@ AnimationClip:
         value: -0.05727637
         inSlope: 0
         outSlope: 0.00064373016
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.41666666
-        value: -0.056483805
-        inSlope: 0.0014305115
-        outSlope: 0.0014305114
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.5
-        value: -0.05728206
-        inSlope: 0.0053644176
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.7048702
-        inSlope: 0
-        outSlope: 0.0005722046
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.41666666
-        value: 0.70490134
-        inSlope: 0.01988411
-        outSlope: 0.020027159
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.5
-        value: 0.7048713
-        inSlope: 0.0007152557
-        outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
@@ -21198,6 +21866,7 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0
         value: 0.99081653
         inSlope: 0
@@ -21211,14 +21880,25 @@ AnimationClip:
         value: 0.99037755
         inSlope: 0.0035762787
         outSlope: 0.0028610227
+=======
+        time: 0.41666666
+        value: -0.056483805
+        inSlope: 0.0014305115
+        outSlope: 0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9908184
         inSlope: 0.0014305114
+=======
+        value: -0.05728206
+        inSlope: 0.0053644176
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21227,8 +21907,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.x
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+=======
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21236,6 +21921,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.13381374
         inSlope: 0
         outSlope: -0.010228157
@@ -21313,23 +21999,39 @@ AnimationClip:
         value: 0.0027372593
         inSlope: 0
         outSlope: 0.0019144267
+=======
+        value: 0.7048702
+        inSlope: 0
+        outSlope: 0.0005722046
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0022995058
         inSlope: 0.0002508983
         outSlope: 0.000257045
+=======
+        value: 0.70490134
+        inSlope: 0.01988411
+        outSlope: 0.020027159
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0027432716
         inSlope: 0.002223998
+=======
+        value: 0.7048713
+        inSlope: 0.0007152557
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21339,7 +22041,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_B00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21347,26 +22053,43 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.70630395
         inSlope: 0
         outSlope: -0.0005722046
+=======
+        value: 0.99081653
+        inSlope: 0
+        outSlope: 0.001001358
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.706067
         inSlope: -0.003004074
         outSlope: -0.0028610227
+=======
+        value: 0.99037755
+        inSlope: 0.0035762787
+        outSlope: 0.0028610227
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.7063044
         inSlope: -0.0014305114
+=======
+        value: 0.9908184
+        inSlope: 0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21376,7 +22099,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21384,26 +22111,43 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.081157476
         inSlope: 0
         outSlope: -0.0002861023
+=======
+        value: 0.13381374
+        inSlope: 0
+        outSlope: -0.010228157
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.081962466
         inSlope: 0.020241737
         outSlope: 0.020027159
+=======
+        value: 0.1373477
+        inSlope: -0.026071072
+        outSlope: -0.02378225
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.08117056
         inSlope: -0.00035762784
+=======
+        value: 0.13379495
+        inSlope: -0.012874601
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21413,7 +22157,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21421,26 +22169,43 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.03691116
         inSlope: 0
         outSlope: -0.015234947
+=======
+        value: 0.019208184
+        inSlope: 0
+        outSlope: 0.010992587
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.03269425
         inSlope: -0.016593933
         outSlope: -0.016808508
+=======
+        value: 0.016813165
+        inSlope: -0.0026375055
+        outSlope: -0.0029057262
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.03695178
         inSlope: -0.018954275
+=======
+        value: 0.019245978
+        inSlope: 0.0126957875
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21450,7 +22215,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21458,26 +22227,43 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.70227194
         inSlope: 0
         outSlope: -0.0015735626
+=======
+        value: 0.0027372593
+        inSlope: 0
+        outSlope: 0.0019144267
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.41666666
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.7026255
         inSlope: -0.0014305115
         outSlope: -0.0014305114
+=======
+        value: 0.0022995058
+        inSlope: 0.0002508983
+        outSlope: 0.000257045
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.7022679
         inSlope: -0.0014305114
+=======
+        value: 0.0027432716
+        inSlope: 0.002223998
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21487,7 +22273,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_C00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21495,26 +22285,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.2372935
         inSlope: 0
         outSlope: 0.011175871
+=======
+        value: -0.70630395
+        inSlope: 0
+        outSlope: -0.0005722046
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.3
         value: -0.24774215
         inSlope: 0.018626451
         outSlope: 0.01884997
+=======
+        time: 0.41666666
+        value: -0.706067
+        inSlope: -0.003004074
+        outSlope: -0.0028610227
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.23687664
         inSlope: 0.016838314
+=======
+        value: -0.7063044
+        inSlope: -0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21524,7 +22332,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21532,26 +22344,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9480385
         inSlope: 0
         outSlope: 0.0007947286
+=======
+        value: -0.081157476
+        inSlope: 0
+        outSlope: -0.0002861023
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.3
         value: 0.9437721
         inSlope: 0.0111262
         outSlope: 0.011324883
+=======
+        time: 0.41666666
+        value: -0.081962466
+        inSlope: 0.020241737
+        outSlope: 0.020027159
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.94816613
         inSlope: 0.0029802325
+=======
+        value: -0.08117056
+        inSlope: -0.00035762784
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21561,7 +22391,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21569,26 +22403,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.05871284
         inSlope: 0
         outSlope: 0.00629574
+=======
+        value: -0.03691116
+        inSlope: 0
+        outSlope: -0.015234947
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.3
         value: 0.057254225
         inSlope: -0.0015522043
         outSlope: -0.0014342369
+=======
+        time: 0.41666666
+        value: -0.03269425
+        inSlope: -0.016593933
+        outSlope: -0.016808508
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.058823038
         inSlope: 0.006947667
+=======
+        value: -0.03695178
+        inSlope: -0.018954275
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21598,7 +22450,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21606,26 +22462,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.20363595
         inSlope: 0
         outSlope: 0.0075499215
+=======
+        value: 0.70227194
+        inSlope: 0
+        outSlope: -0.0015735626
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.3
         value: 0.21128179
         inSlope: -0.02776583
         outSlope: -0.028163197
+=======
+        time: 0.41666666
+        value: 0.7026255
+        inSlope: -0.0014305115
+        outSlope: -0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.20349495
         inSlope: 0.0018626453
+=======
+        value: 0.7022679
+        inSlope: -0.0014305114
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21635,7 +22509,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/J_R_Sode_D00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21643,26 +22521,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.009698609
         inSlope: 0
         outSlope: 0.0010509617
+=======
+        value: -0.2372935
+        inSlope: 0
+        outSlope: 0.011175871
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.43333334
         value: -0.009222444
         inSlope: -0.0046164943
         outSlope: -0.004610047
+=======
+        time: 0.3
+        value: -0.24774215
+        inSlope: 0.018626451
+        outSlope: 0.01884997
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.009508638
         inSlope: -0.00036321583
+=======
+        value: -0.23687664
+        inSlope: 0.016838314
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21672,7 +22568,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21680,26 +22580,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0321255
         inSlope: 0
         outSlope: 0.0036278595
+=======
+        value: 0.9480385
+        inSlope: 0
+        outSlope: 0.0007947286
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.43333334
         value: 0.031707108
         inSlope: 0.0051666913
         outSlope: 0.0050850217
+=======
+        time: 0.3
+        value: 0.9437721
+        inSlope: 0.0111262
+        outSlope: 0.011324883
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.032220256
         inSlope: 0.003576279
+=======
+        value: 0.94816613
+        inSlope: 0.0029802325
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21709,7 +22627,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21717,26 +22639,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.015226887
         inSlope: 0
         outSlope: 0.0046100467
+=======
+        value: 0.05871284
+        inSlope: 0
+        outSlope: 0.00629574
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.43333334
         value: 0.016390525
         inSlope: -0.011781947
         outSlope: -0.011790545
+=======
+        time: 0.3
+        value: 0.057254225
+        inSlope: -0.0015522043
+        outSlope: -0.0014342369
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.01572949
         inSlope: 0.00033527616
+=======
+        value: 0.058823038
+        inSlope: 0.006947667
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21746,7 +22686,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21754,26 +22698,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99932075
         inSlope: 0
         outSlope: -0.00013754918
+=======
+        value: 0.20363595
+        inSlope: 0
+        outSlope: 0.0075499215
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.43333334
         value: 0.99932027
         inSlope: 0.00013754918
         outSlope: -0.00089406973
+=======
+        time: 0.3
+        value: 0.21128179
+        inSlope: -0.02776583
+        outSlope: -0.028163197
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99931175
         inSlope: -0.00089406973
+=======
+        value: 0.20349495
+        inSlope: 0.0018626453
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21783,7 +22745,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21791,26 +22757,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.078709535
         inSlope: 0
         outSlope: -0.005123707
+=======
+        value: -0.009698609
+        inSlope: 0
+        outSlope: 0.0010509617
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: -0.08369372
         inSlope: 0.006327262
         outSlope: 0.006442561
+=======
+        time: 0.43333334
+        value: -0.009222444
+        inSlope: -0.0046164943
+        outSlope: -0.004610047
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.078705244
         inSlope: -0.0027873938
+=======
+        value: -0.009508638
+        inSlope: -0.00036321583
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21820,7 +22804,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21828,26 +22816,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.041551396
         inSlope: 0
         outSlope: -0.06855107
+=======
+        value: 0.0321255
+        inSlope: 0
+        outSlope: 0.0036278595
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: -0.015588278
         inSlope: 0.057091504
         outSlope: 0.058439944
+=======
+        time: 0.43333334
+        value: 0.031707108
+        inSlope: 0.0051666913
+        outSlope: 0.0050850217
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.041563526
         inSlope: -0.037853334
+=======
+        value: 0.032220256
+        inSlope: 0.003576279
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21857,7 +22863,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21865,26 +22875,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9818014
         inSlope: 0
         outSlope: -0.0035762787
+=======
+        value: 0.015226887
+        inSlope: 0
+        outSlope: 0.0046100467
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: 0.9755644
         inSlope: 0.01017864
         outSlope: 0.010728836
+=======
+        time: 0.43333334
+        value: 0.016390525
+        inSlope: -0.011781947
+        outSlope: -0.011790545
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9818033
         inSlope: -0.0021036933
+=======
+        value: 0.01572949
+        inSlope: 0.00033527616
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21894,7 +22922,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21902,26 +22934,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.16776264
         inSlope: 0
         outSlope: 0.034524843
+=======
+        value: 0.99932075
+        inSlope: 0
+        outSlope: -0.00013754918
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: 0.20254962
         inSlope: -0.043396767
         outSlope: -0.043388676
+=======
+        time: 0.43333334
+        value: 0.99932027
+        inSlope: 0.00013754918
+        outSlope: -0.00089406973
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.1677504
         inSlope: 0.019248795
+=======
+        value: 0.99931175
+        inSlope: -0.00089406973
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21931,7 +22981,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_Skirt_00/J_L_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21939,26 +22993,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.0056341593
         inSlope: 0
         outSlope: 0.010556541
+=======
+        value: -0.078709535
+        inSlope: 0
+        outSlope: -0.005123707
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: -0.0037873157
         inSlope: -0.017230632
         outSlope: -0.01727448
+=======
+        time: 0.21666667
+        value: -0.08369372
+        inSlope: 0.006327262
+        outSlope: 0.006442561
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.00560492
         inSlope: 0.0095926225
+=======
+        value: -0.078705244
+        inSlope: -0.0027873938
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -21968,7 +23040,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -21976,26 +23052,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.056020584
         inSlope: 0
         outSlope: 0.01501292
+=======
+        value: 0.041551396
+        inSlope: 0
+        outSlope: -0.06855107
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: -0.05370694
         inSlope: -0.0097975135
         outSlope: -0.009872019
+=======
+        time: 0.21666667
+        value: -0.015588278
+        inSlope: 0.057091504
+        outSlope: 0.058439944
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.055992384
         inSlope: 0.013709067
+=======
+        value: 0.041563526
+        inSlope: -0.037853334
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22005,7 +23099,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22013,26 +23111,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.12118335
         inSlope: 0
         outSlope: 0.068061054
+=======
+        value: 0.9818014
+        inSlope: 0
+        outSlope: -0.0035762787
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: 0.13263221
         inSlope: -0.107586384
         outSlope: -0.1078844
+=======
+        time: 0.21666667
+        value: 0.9755644
+        inSlope: 0.01017864
+        outSlope: 0.010728836
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.12137706
         inSlope: 0.062535204
+=======
+        value: 0.9818033
+        inSlope: -0.0021036933
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22042,7 +23158,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22050,26 +23170,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9910321
         inSlope: 0
         outSlope: -0.0074505806
+=======
+        value: 0.16776264
+        inSlope: 0
+        outSlope: 0.034524843
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: 0.98970187
         inSlope: 0.013709068
         outSlope: 0.01390775
+=======
+        time: 0.21666667
+        value: 0.20254962
+        inSlope: -0.043396767
+        outSlope: -0.043388676
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9910101
         inSlope: -0.0067551928
+=======
+        value: 0.1677504
+        inSlope: 0.019248795
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22079,7 +23217,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22087,26 +23229,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.07786117
         inSlope: 0
         outSlope: -0.02297759
+=======
+        value: -0.0056341593
+        inSlope: 0
+        outSlope: 0.010556541
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.25
         value: 0.07482672
         inSlope: 0.025212765
         outSlope: 0.025302172
+=======
+        time: 0.2
+        value: -0.0037873157
+        inSlope: -0.017230632
+        outSlope: -0.01727448
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.07762319
         inSlope: -0.020712614
+=======
+        value: -0.00560492
+        inSlope: 0.0095926225
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22116,7 +23276,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22124,26 +23288,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.9832816
         inSlope: 0
         outSlope: 0.0023841858
+=======
+        value: -0.056020584
+        inSlope: 0
+        outSlope: 0.01501292
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.25
         value: -0.9813873
         inSlope: -0.00500679
         outSlope: -0.0052452087
+=======
+        time: 0.2
+        value: -0.05370694
+        inSlope: -0.0097975135
+        outSlope: -0.009872019
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.98329765
         inSlope: 0.00166893
+=======
+        value: -0.055992384
+        inSlope: 0.013709067
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22153,7 +23335,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22161,26 +23347,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.06241005
         inSlope: 0
         outSlope: 0.013798475
+=======
+        value: 0.12118335
+        inSlope: 0
+        outSlope: 0.068061054
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.25
         value: 0.06651633
         inSlope: -0.018209219
         outSlope: -0.018298626
+=======
+        time: 0.2
+        value: 0.13263221
+        inSlope: -0.107586384
+        outSlope: -0.1078844
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.06249023
         inSlope: 0.0113248825
+=======
+        value: 0.12137706
+        inSlope: 0.062535204
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22190,7 +23394,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22198,26 +23406,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.1523152
         inSlope: 0
         outSlope: 0.021576881
+=======
+        value: 0.9910321
+        inSlope: 0
+        outSlope: -0.0074505806
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.25
         value: 0.16387615
         inSlope: -0.03528595
         outSlope: -0.035703182
+=======
+        time: 0.2
+        value: 0.98970187
+        inSlope: 0.013709068
+        outSlope: 0.01390775
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.15230002
         inSlope: 0.015437603
+=======
+        value: 0.9910101
+        inSlope: -0.0067551928
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22227,7 +23453,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+=======
+    path: Character1_Reference/Character1_Hips/J_L_SkirtBack_00/J_L_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22235,26 +23465,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0038054225
         inSlope: 0
         outSlope: 0.00006984919
+=======
+        value: 0.07786117
+        inSlope: 0
+        outSlope: -0.02297759
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.4
         value: 0.0030532426
         inSlope: 0.0049790833
         outSlope: 0.0050058593
+=======
+        time: 0.25
+        value: 0.07482672
+        inSlope: 0.025212765
+        outSlope: 0.025302172
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.003752041
         inSlope: 0.00093365094
+=======
+        value: 0.07762319
+        inSlope: -0.020712614
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22264,7 +23512,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22272,26 +23524,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.037887275
         inSlope: 0
         outSlope: -0.0032410026
+=======
+        value: -0.9832816
+        inSlope: 0
+        outSlope: 0.0023841858
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.4
         value: -0.035286527
         inSlope: -0.016298145
         outSlope: -0.01639128
+=======
+        time: 0.25
+        value: -0.9813873
+        inSlope: -0.00500679
+        outSlope: -0.0052452087
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.0378845
         inSlope: -0.005550683
+=======
+        value: -0.98329765
+        inSlope: 0.00166893
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22301,7 +23571,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22309,26 +23583,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.020204261
         inSlope: 0
         outSlope: 0.0015599653
+=======
+        value: 0.06241005
+        inSlope: 0
+        outSlope: 0.013798475
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.4
         value: 0.02311818
         inSlope: -0.020260923
         outSlope: -0.020358713
+=======
+        time: 0.25
+        value: 0.06651633
+        inSlope: -0.018209219
+        outSlope: -0.018298626
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.020453788
         inSlope: -0.0023655596
+=======
+        value: 0.06249023
+        inSlope: 0.0113248825
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22338,7 +23630,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22346,26 +23642,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99907047
         inSlope: 0
         outSlope: 0
+=======
+        value: 0.1523152
+        inSlope: 0
+        outSlope: 0.021576881
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.4
         value: 0.99910516
         inSlope: -0.00014901161
         outSlope: 0
+=======
+        time: 0.25
+        value: 0.16387615
+        inSlope: -0.03528595
+        outSlope: -0.035703182
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.99906576
         inSlope: -0.0005960465
+=======
+        value: 0.15230002
+        inSlope: 0.015437603
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22375,7 +23689,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22383,26 +23701,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.14840704
         inSlope: 0
         outSlope: -0.040233135
+=======
+        value: 0.0038054225
+        inSlope: 0
+        outSlope: 0.00006984919
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: 0.11684391
         inSlope: 0.040611394
         outSlope: 0.041547943
+=======
+        time: 0.4
+        value: 0.0030532426
+        inSlope: 0.0049790833
+        outSlope: 0.0050058593
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.14844793
         inSlope: -0.022719888
+=======
+        value: 0.003752041
+        inSlope: 0.00093365094
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22412,7 +23748,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22420,26 +23760,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.14651628
         inSlope: 0
         outSlope: 0.026478216
+=======
+        value: -0.037887275
+        inSlope: 0
+        outSlope: -0.0032410026
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: 0.17134403
         inSlope: -0.036794405
         outSlope: -0.037287965
+=======
+        time: 0.4
+        value: -0.035286527
+        inSlope: -0.016298145
+        outSlope: -0.01639128
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.14650093
         inSlope: 0.014725854
+=======
+        value: -0.0378845
+        inSlope: -0.005550683
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22449,7 +23807,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22457,26 +23819,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.124752514
         inSlope: 0
         outSlope: -0.037447765
+=======
+        value: 0.020204261
+        inSlope: 0
+        outSlope: 0.0015599653
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: -0.15994613
         inSlope: 0.053093985
         outSlope: 0.05385455
+=======
+        time: 0.4
+        value: 0.02311818
+        inSlope: -0.020260923
+        outSlope: -0.020358713
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.124725915
         inSlope: -0.020695083
+=======
+        value: 0.020453788
+        inSlope: -0.0023655596
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22486,7 +23866,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22494,26 +23878,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.97002333
         inSlope: 0
         outSlope: -0.003026082
+=======
+        value: 0.99907047
+        inSlope: 0
+        outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.21666667
         value: 0.9650937
         inSlope: 0.009628442
         outSlope: 0.010728836
+=======
+        time: 0.4
+        value: 0.99910516
+        inSlope: -0.00014901161
+        outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.97002274
         inSlope: -0.0014725854
+=======
+        value: 0.99906576
+        inSlope: -0.0005960465
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22523,7 +23925,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+=======
+    path: Character1_Reference/Character1_Hips/J_R_Skirt_00/J_R_Skirt_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22531,26 +23937,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0060049673
         inSlope: 0
         outSlope: -0.0054459088
+=======
+        value: 0.14840704
+        inSlope: 0
+        outSlope: -0.040233135
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: 0.0053524124
         inSlope: 0.010852236
         outSlope: 0.010857669
+=======
+        time: 0.21666667
+        value: 0.11684391
+        inSlope: 0.040611394
+        outSlope: 0.041547943
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.0059862905
         inSlope: -0.0051191696
+=======
+        value: 0.14844793
+        inSlope: -0.022719888
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22560,7 +23984,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22568,26 +23996,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.049030337
         inSlope: 0
         outSlope: -0.021979213
+=======
+        value: 0.14651628
+        inSlope: 0
+        outSlope: 0.026478216
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: -0.052202493
         inSlope: 0.041387975
         outSlope: 0.041474897
+=======
+        time: 0.21666667
+        value: 0.17134403
+        inSlope: -0.036794405
+        outSlope: -0.037287965
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.04909663
         inSlope: -0.020563602
+=======
+        value: 0.14650093
+        inSlope: 0.014725854
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22597,7 +24043,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22605,26 +24055,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.12597759
         inSlope: 0
         outSlope: 0.05930662
+=======
+        value: -0.124752514
+        inSlope: 0
+        outSlope: -0.037447765
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: 0.12764952
         inSlope: -0.096186996
         outSlope: -0.096162155
+=======
+        time: 0.21666667
+        value: -0.15994613
+        inSlope: 0.053093985
+        outSlope: 0.05385455
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.12622821
         inSlope: 0.05856156
+=======
+        value: -0.124725915
+        inSlope: -0.020695083
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22634,7 +24102,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22642,26 +24114,44 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9908025
         inSlope: 0
         outSlope: -0.008940697
+=======
+        value: 0.97002333
+        inSlope: 0
+        outSlope: -0.003026082
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.2
         value: 0.9904302
         inSlope: 0.014603138
         outSlope: 0.014702478
+=======
+        time: 0.21666667
+        value: 0.9650937
+        inSlope: 0.009628442
+        outSlope: 0.010728836
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.9907674
         inSlope: -0.008543332
+=======
+        value: 0.97002274
+        inSlope: -0.0014725854
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22671,7 +24161,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22679,6 +24173,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -22728,12 +24223,18 @@ AnimationClip:
         value: 0.3928706
         inSlope: 0
         outSlope: -0.0032782555
+=======
+        value: 0.0060049673
+        inSlope: 0
+        outSlope: -0.0054459088
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.37691578
         inSlope: -0.07227063
         outSlope: -0.0719726
@@ -22746,14 +24247,24 @@ AnimationClip:
         value: 0.37810394
         inSlope: 0.05073845
         outSlope: 0.05078316
+=======
+        value: 0.0053524124
+        inSlope: 0.010852236
+        outSlope: 0.010857669
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.3928706
         inSlope: 0.003933907
+=======
+        value: 0.0059862905
+        inSlope: -0.0051191696
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22763,7 +24274,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22771,15 +24286,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.3732735
         inSlope: 0
         outSlope: 0.00923872
+=======
+        value: -0.049030337
+        inSlope: 0
+        outSlope: -0.021979213
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.33261234
         inSlope: 0.12814999
         outSlope: 0.12785196
@@ -22792,14 +24314,24 @@ AnimationClip:
         value: -0.3352893
         inSlope: -0.15109776
         outSlope: -0.15163423
+=======
+        value: -0.052202493
+        inSlope: 0.041387975
+        outSlope: 0.041474897
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.3732735
         inSlope: -0.012338162
+=======
+        value: -0.04909663
+        inSlope: -0.020563602
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22809,7 +24341,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22817,15 +24353,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.15340663
         inSlope: 0
         outSlope: 0.03144145
+=======
+        value: 0.12597759
+        inSlope: 0
+        outSlope: 0.05930662
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.026520282
         inSlope: 0.36239624
         outSlope: 0.36086884
@@ -22838,14 +24381,24 @@ AnimationClip:
         value: -0.0343087
         inSlope: -0.45396385
         outSlope: -0.45597556
+=======
+        value: 0.12764952
+        inSlope: -0.096186996
+        outSlope: -0.096162155
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.15340663
         inSlope: -0.041216616
+=======
+        value: 0.12622821
+        inSlope: 0.05856156
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22855,7 +24408,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22863,15 +24420,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.8263087
         inSlope: 0
         outSlope: 0.011622906
+=======
+        value: 0.9908025
+        inSlope: 0
+        outSlope: -0.008940697
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.8640603
         inSlope: 0.09179115
         outSlope: 0.09208917
@@ -22884,14 +24448,24 @@ AnimationClip:
         value: 0.8622305
         inSlope: -0.099241726
         outSlope: -0.09977818
+=======
+        value: 0.9904302
+        inSlope: 0.014603138
+        outSlope: 0.014702478
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.8263087
         inSlope: -0.014662744
+=======
+        value: 0.9907674
+        inSlope: -0.008543332
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22901,7 +24475,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+=======
+    path: Character1_Reference/Character1_Hips/J_R_SkirtBack_00/J_R_SkirtBack_01
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22909,26 +24487,52 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.26139116
         inSlope: 0
         outSlope: 0.013113022
+=======
+        value: 0.3928706
+        inSlope: 0
+        outSlope: -0.0032782555
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.21424901
         inSlope: 0.06452203
         outSlope: 0.06313125
+=======
+        value: 0.37691578
+        inSlope: -0.07227063
+        outSlope: -0.0719726
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: 0.37810394
+        inSlope: 0.05073845
+        outSlope: 0.05078316
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.2611458
         inSlope: -0.03705422
+=======
+        value: 0.3928706
+        inSlope: 0.003933907
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22938,7 +24542,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22946,26 +24554,52 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.6610134
         inSlope: 0
         outSlope: -0.047683716
+=======
+        value: -0.3732735
+        inSlope: 0
+        outSlope: 0.00923872
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.6779042
         inSlope: -0.02592802
         outSlope: -0.025828678
+=======
+        value: -0.33261234
+        inSlope: 0.12814999
+        outSlope: 0.12785196
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: -0.3352893
+        inSlope: -0.15109776
+        outSlope: -0.15163423
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.66098356
         inSlope: -0.0333786
+=======
+        value: -0.3732735
+        inSlope: -0.012338162
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -22975,7 +24609,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -22983,26 +24621,52 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.52882344
         inSlope: 0
         outSlope: -0.09804964
+=======
+        value: -0.15340663
+        inSlope: 0
+        outSlope: 0.03144145
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.48990762
         inSlope: -0.051259995
         outSlope: -0.05016724
+=======
+        value: -0.026520282
+        inSlope: 0.36239624
+        outSlope: 0.36086884
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: -0.0343087
+        inSlope: -0.45396385
+        outSlope: -0.45597556
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.52875423
         inSlope: -0.0667572
+=======
+        value: -0.15340663
+        inSlope: -0.041216616
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -23012,7 +24676,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23020,26 +24688,52 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.46376893
         inSlope: 0
         outSlope: 0.05185604
+=======
+        value: 0.8263087
+        inSlope: 0
+        outSlope: 0.011622906
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.2
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.5045133
         inSlope: 0.042021275
         outSlope: 0.041325886
+=======
+        value: 0.8640603
+        inSlope: 0.09179115
+        outSlope: 0.09208917
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.33333334
+        value: 0.8622305
+        inSlope: -0.099241726
+        outSlope: -0.09977818
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.4640286
         inSlope: 0.00745058
+=======
+        value: 0.8263087
+        inSlope: -0.014662744
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -23049,7 +24743,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23057,14 +24755,21 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.009379145
         inSlope: 0
         outSlope: -0.06414362
+=======
+        value: -0.26139116
+        inSlope: 0
+        outSlope: 0.013113022
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.31666666
         value: 0.034734104
         inSlope: 0.013799259
@@ -23078,14 +24783,25 @@ AnimationClip:
         value: 0.025692623
         inSlope: -0.12713669
         outSlope: -0.12710692
+=======
+        time: 0.2
+        value: -0.21424901
+        inSlope: 0.06452203
+        outSlope: 0.06313125
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.009379145
         inSlope: -0.07648022
+=======
+        value: -0.2611458
+        inSlope: -0.03705422
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -23095,7 +24811,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23103,14 +24823,21 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.5858118
         inSlope: 0
         outSlope: -0.021457672
+=======
+        value: -0.6610134
+        inSlope: 0
+        outSlope: -0.047683716
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.31666666
         value: -0.56800693
         inSlope: -0.02277525
@@ -23124,14 +24851,25 @@ AnimationClip:
         value: -0.5757129
         inSlope: -0.095844254
         outSlope: -0.09834767
+=======
+        time: 0.2
+        value: -0.6779042
+        inSlope: -0.02592802
+        outSlope: -0.025828678
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.5858118
         inSlope: -0.03039837
+=======
+        value: -0.66098356
+        inSlope: -0.0333786
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -23141,7 +24879,11 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23149,6 +24891,319 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.06783695
+        inSlope: 0
+        outSlope: 0.030468954
+=======
+        value: 0.52882344
+        inSlope: 0
+        outSlope: -0.09804964
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.31666666
+        value: -0.053873047
+        inSlope: -0.09615955
+        outSlope: -0.09655951
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.4
+        value: -0.062795356
+        inSlope: -0.09146332
+        outSlope: -0.091344126
+=======
+        time: 0.2
+        value: 0.48990762
+        inSlope: -0.051259995
+        outSlope: -0.05016724
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.06783695
+        inSlope: 0.023990871
+=======
+        value: 0.52875423
+        inSlope: -0.0667572
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.8075486
+        inSlope: 0
+        outSlope: -0.012422863
+=======
+        value: 0.46376893
+        inSlope: 0
+        outSlope: 0.05185604
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.31666666
+        value: 0.8205238
+        inSlope: -0.022963474
+        outSlope: -0.022172926
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.4
+        value: 0.81483203
+        inSlope: -0.07224082
+        outSlope: -0.07212163
+=======
+        time: 0.2
+        value: 0.5045133
+        inSlope: 0.042021275
+        outSlope: 0.041325886
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.8075486
+        inSlope: -0.019073488
+=======
+        value: 0.4640286
+        inSlope: 0.00745058
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/J_R_HeadRibbon_00/J_R_HeadRibbon_01/J_R_HeadRibbon_02
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.106040284
+        inSlope: 0
+        outSlope: 0
+=======
+        value: 0.009379145
+        inSlope: 0
+        outSlope: -0.06414362
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.31666666
+        value: 0.034734104
+        inSlope: 0.013799259
+        outSlope: 0.013276933
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.2
+        value: -0.106040284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: -0.106040284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -0.106040284
+        inSlope: 0
+        outSlope: 0
+=======
+        time: 0.4
+        value: 0.025692623
+        inSlope: -0.12713669
+        outSlope: -0.12710692
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.106040284
+        inSlope: 0
+=======
+        value: 0.009379145
+        inSlope: -0.07648022
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.697103
+        inSlope: 0
+        outSlope: 0
+=======
+        value: -0.5858118
+        inSlope: 0
+        outSlope: -0.021457672
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.31666666
+        value: -0.56800693
+        inSlope: -0.02277525
+        outSlope: -0.024318691
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.2
+        value: -0.697103
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: -0.697103
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -0.697103
+        inSlope: 0
+        outSlope: 0
+=======
+        time: 0.4
+        value: -0.5757129
+        inSlope: -0.095844254
+        outSlope: -0.09834767
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.697103
+        inSlope: 0
+=======
+        value: -0.5858118
+        inSlope: -0.03039837
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+=======
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+=======
         value: -0.06783695
         inSlope: 0
         outSlope: 0.030468954
@@ -23170,19 +25225,31 @@ AnimationClip:
         value: -0.062795356
         inSlope: -0.09146332
         outSlope: -0.091344126
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.2
+        value: -0.11625048
+        inSlope: 0
+=======
         time: 0.5
         value: -0.06783695
         inSlope: 0.023990871
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      - serializedVersion: 3
+        time: 0.3
+        value: -0.11625048
+=======
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -23196,6 +25263,7 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: 0.8075486
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: -0.012422863
         tangentMode: 0
@@ -23212,18 +25280,30 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.43333334
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+=======
         time: 0.4
         value: 0.81483203
         inSlope: -0.07224082
         outSlope: -0.07212163
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: -0.11625048
+        inSlope: 0
+=======
         value: 0.8075486
         inSlope: -0.019073488
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -23232,8 +25312,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+=======
     attribute: m_LocalRotation.w
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23241,6 +25326,11 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.6994916
+        inSlope: 0
+        outSlope: 0
+=======
         value: -0.106040284
         inSlope: 0
         outSlope: 0
@@ -23271,19 +25361,30 @@ AnimationClip:
         value: -0.106040284
         inSlope: 0
         outSlope: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.2
+        value: 0.6994916
+=======
         time: 0.5
         value: -0.106040284
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.6994916
+=======
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -23297,6 +25398,7 @@ AnimationClip:
       - serializedVersion: 3
         time: 0
         value: -0.697103
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -23304,6 +25406,10 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        time: 0.43333334
+        value: 0.6994916
+=======
         time: 0.2
         value: -0.697103
         inSlope: 0
@@ -23324,6 +25430,7 @@ AnimationClip:
       - serializedVersion: 3
         time: 0.43333334
         value: -0.697103
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -23332,7 +25439,11 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
+        value: 0.6994916
+=======
         value: -0.697103
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -23342,117 +25453,11 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.11625048
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.2
-        value: -0.11625048
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.3
-        value: -0.11625048
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.43333334
-        value: -0.11625048
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.5
-        value: -0.11625048
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.6994916
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.2
-        value: 0.6994916
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.3
-        value: 0.6994916
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.43333334
-        value: 0.6994916
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.5
-        value: 0.6994916
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalRotation.w
+=======
+    attribute: m_LocalRotation.y
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
     classID: 4
     script: {fileID: 0}
@@ -23461,16 +25466,54 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.07
         inSlope: 0
         outSlope: 0
         tangentMode: 136
+=======
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.2
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: -0.11625048
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.07
+=======
+        value: -0.11625048
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -23480,8 +25523,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalPosition.x
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Diablohealth
+=======
+    attribute: m_LocalRotation.z
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23489,14 +25537,22 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: 0.026
         inSlope: 0
         outSlope: 0
         tangentMode: 136
+=======
+        value: 0.6994916
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         time: 0.5
         value: 0.026
         inSlope: 0
@@ -23521,12 +25577,41 @@ AnimationClip:
         inSlope: 0
         outSlope: 0
         tangentMode: 136
+=======
+        time: 0.2
+        value: 0.6994916
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.6994916
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.43333334
+        value: 0.6994916
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         value: -0.0284
+=======
+        value: 0.6994916
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -23536,8 +25621,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+<<<<<<< HEAD:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     attribute: m_LocalPosition.z
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Diablohealth
+=======
+    attribute: m_LocalRotation.w
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+>>>>>>> Story:Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Animations/Heal.anim
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -23723,6 +25813,34 @@ AnimationClip:
     attribute: m_LocalRotation.w
     path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm
     classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.5
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Character1_Reference/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Diablohealth
+    classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves:
   - curve:

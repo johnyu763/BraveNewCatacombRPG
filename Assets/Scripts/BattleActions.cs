@@ -13,9 +13,14 @@ public class BattleActions : MonoBehaviour
     private Animator anim;
     private Vector3 moveVector;
     private Vector3 gravityVector;
-    public GameObject enemy;
+
+    public EnemyBehaviour enemy;
     public Camera mainCamera;
     public Camera subCamera;
+    public Camera healCamera;
+    public GameObject menuItems;
+    public GameObject attackItems;
+    public Vector3 offset;
 
     // Start is called before the first frame update
     void Start()
@@ -25,7 +30,7 @@ public class BattleActions : MonoBehaviour
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position), transform.position.z);
         startPosition = transform.position;
         attackPosition = (enemy.transform.position - startPosition);
-        moveVector = new Vector3((attackPosition.x-1.9f)/25f, 0f,(attackPosition.z-1.9f)/25f);
+        moveVector = new Vector3((attackPosition.x-offset.x)/25f, 0f,(attackPosition.z-offset.z)/25f);
 
     }
 
@@ -39,21 +44,32 @@ public class BattleActions : MonoBehaviour
 
     public void SpinAttack()
     {
+        menuItems.SetActive(false);
+        attackItems.SetActive(false);
         StartCoroutine(SpinCoroutine());
     }
 
     public void DropAttack()
     {
+        menuItems.SetActive(false);
+        attackItems.SetActive(false);
         StartCoroutine(DropCoroutine());
     }
     public void SpecialAttack()
     {
+
+        menuItems.SetActive(false);
+        attackItems.SetActive(false);
         subCamera.enabled = true;
         mainCamera.enabled = false;
         StartCoroutine(SpecialCoroutine());
     }
     public void Heal()
     {
+        menuItems.SetActive(false);
+        attackItems.SetActive(false);
+        healCamera.enabled = true;
+        mainCamera.enabled = false;
         anim.SetTrigger("Heal");
         StartCoroutine(HealPlayer());
     }
@@ -61,7 +77,12 @@ public class BattleActions : MonoBehaviour
     IEnumerator HealPlayer()
     {
         yield return new WaitForSeconds(1.5f);
+
         dmg.HealPlayer();
+        mainCamera.enabled = true;
+        healCamera.enabled = false;
+        enemy.AttackAction();
+
     }
 
     IEnumerator SpinCoroutine()
@@ -91,11 +112,11 @@ public class BattleActions : MonoBehaviour
         anim.SetBool("Run", false);
         anim.SetTrigger("Spinkick");
 
-
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1f);
 
         this.transform.position = startPosition;
         dmg.DmgEnemy(1f);
+        enemy.AttackAction();
 
     }
 
@@ -128,19 +149,21 @@ public class BattleActions : MonoBehaviour
         anim.SetTrigger("Dropkick");
 
 
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1f);
 
         this.transform.position = startPosition;
         dmg.DmgEnemy(1f);
+        enemy.AttackAction();
 
     }
 
     IEnumerator SpecialCoroutine()
     {
         anim.SetTrigger("Special");
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(1f);
         mainCamera.enabled = true;
         subCamera.enabled = false;
         dmg.DmgEnemy(5f);
+        enemy.AttackAction();
     }
 }

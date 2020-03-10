@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MobScript : MonoBehaviour
+public class MobScript : EnemyBehaviour
 {
     public getDamage lose;
     public GameObject player;
@@ -23,28 +23,21 @@ public class MobScript : MonoBehaviour
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position) + minHeight, transform.position.z);
         startPosition = transform.position;
         attackPosition = (player.transform.position - startPosition);
-        Debug.Log(attackPosition.x + " X");
-        Debug.Log(attackPosition.y + " Y");
-        Debug.Log(attackPosition.z + " Z");
+       
         moveVector = new Vector3((attackPosition.x) / 25f, 0f, (attackPosition.z) / 25f);
     }
-    public void UpdateValues()
+    override public void UpdateValues()
     {
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position) + minHeight, transform.position.z);
         startPosition = transform.position;
         attackPosition = (player.transform.position - startPosition);
-        Debug.Log(attackPosition.x + " X");
-        Debug.Log(attackPosition.y + " Y");
-        Debug.Log(attackPosition.z + " Z");
+
         moveVector = new Vector3((attackPosition.x) / 25f, 0f, (attackPosition.z) / 25f);
     }
-    public void AttackAction()
+    override public void AttackAction()
     {
-        menuItems.SetActive(false);
-        attackItems.SetActive(false);
         if(EnemyHealth.value > 0f)
         {
-            Debug.Log(EnemyHealth.value);
             StartCoroutine(VillainAttack());
         }
 
@@ -53,7 +46,8 @@ public class MobScript : MonoBehaviour
 
     IEnumerator VillainAttack()
     {
-        yield return new WaitForSeconds(1.5f);
+
+        yield return new WaitForSeconds(0.75f);
         float timePassed = 0;
         while (timePassed < 0.5f)
         {

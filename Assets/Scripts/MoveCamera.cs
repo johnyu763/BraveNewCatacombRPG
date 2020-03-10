@@ -16,6 +16,7 @@ public class MoveCamera : MonoBehaviour
 
     void LateUpdate()
     {
+
         /*var rot = Input.GetAxisRaw("Horizontal") * Time.deltaTime * 180;
         this.transform.RotateAround(Player.transform.position, Vector3.up,rot);
         offset = Quaternion.AngleAxis(rot, Vector3.up) * offset;

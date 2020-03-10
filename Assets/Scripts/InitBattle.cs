@@ -5,7 +5,7 @@ using UnityEngine;
 public class InitBattle : MonoBehaviour
 {
     public BattleActions Player;
-    public MobScript Enemy;
+    public EnemyBehaviour Enemy;
     // Start is called before the first frame update
     void Start()
     {
