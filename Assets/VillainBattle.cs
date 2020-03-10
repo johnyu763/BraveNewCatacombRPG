@@ -31,7 +31,7 @@ public class VillainBattle : EnemyBehaviour
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position), transform.position.z);
         anim.SetTrigger("Attack");
         yield return new WaitForSeconds(2f);
-        loserLoad.DmgPlayer(2f);
+        loserLoad.DmgPlayer(5f);
 
         if(loserLoad.GetPlayerHealth() > 0f) { 
             attackItems.SetActive(false);
