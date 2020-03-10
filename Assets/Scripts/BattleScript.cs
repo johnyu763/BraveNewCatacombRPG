@@ -6,7 +6,7 @@ public class BattleScript : MonoBehaviour
 {
     public GameObject attackMenu;
 
-    public void getAttackMenu()
+    public void GetAttackMenu()
     {
         this.gameObject.SetActive(false);
         attackMenu.SetActive(true);
