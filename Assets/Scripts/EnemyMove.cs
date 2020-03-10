@@ -14,7 +14,7 @@ public class EnemyMove : MonoBehaviour
     private void Update()
     {
         dist = Vector3.Distance(enemy.transform.position, player.transform.position);
-        if (dist <= 200)
+        if (dist <= 75)
         {
             enemy.transform.LookAt(player.transform);
             enemy.transform.position = Vector3.MoveTowards(enemy.transform.position, player.transform.position, speed);
