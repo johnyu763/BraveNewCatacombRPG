@@ -25,7 +25,6 @@ public class GethinBattle : EnemyBehaviour
         controller = GetComponent<CharacterController>();
         anim = GetComponent<Animator>();
         transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position), transform.position.z);
-        transform.position = new Vector3(transform.position.x, Terrain.activeTerrain.SampleHeight(transform.position), transform.position.z);
         startPosition = transform.position;
         attackPosition = (player.transform.position - startPosition);
         moveVector = new Vector3((attackPosition.x + 1.9f) / 25f, 0f, (attackPosition.z + 2.4f) / 25f);

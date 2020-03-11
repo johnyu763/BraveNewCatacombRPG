@@ -50,12 +50,12 @@ public class getDamage : MonoBehaviour
         StartCoroutine(ToBeCont());
     }
 
-    public void DmgEnemy(float mult)
+    public void DmgEnemy(float mult=1)
     {
 
         Debug.Log("Enemy Health: "+EnemyHealth.value);
         Debug.Log("Max Enemy Health: "+EnemyHealth.maxValue);
-        var damage = Random.Range(0.2f, 0.35f) * mult * PlayerStats.getAtk();
+        var damage = Random.Range(0.5f, 1.5f) * PlayerStats.getAtk()*mult;
         if (EnemyHealth.value - damage > 0f) {
             EnemyHealth.value -= damage;
         }
@@ -66,14 +66,14 @@ public class getDamage : MonoBehaviour
 
     }
 
-    public void DmgPlayer(float mult=1f)
+    public void DmgPlayer()
     {
         Debug.Log("Player Health: "+PlayerHealth.value);
         Debug.Log("Max Player Health: "+PlayerHealth.maxValue);
-        var damage = Random.Range(0.2f, 0.35f)*EnemyStats.getAtk();
+        var damage = Random.Range(0.5f, 1.5f)*EnemyStats.getAtk();
         if (PlayerHealth.value-damage > 0f)
         {
-            PlayerHealth.value -= damage*mult;
+            PlayerHealth.value -= damage;
 
         }
         else if(PlayerHealth.value - damage <= 0f)
@@ -81,7 +81,7 @@ public class getDamage : MonoBehaviour
             PlayerHealth.value = 0f;
         }
 
-        if(canSpecial && PlayerHealth.value <= 0.35f)
+        if(canSpecial && PlayerHealth.value <= 0.35f*PlayerHealth.maxValue)
         {
             SpecialAttack.interactable = true;
             SpecialAttack.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = "Special";
@@ -99,13 +99,13 @@ public class getDamage : MonoBehaviour
     public void HealPlayer()
     {
 
-        if ((PlayerHealth.value + 0.25f*PlayerStats.getDrg()) > PlayerHealth.maxValue)
+        if ((PlayerHealth.value + 25f) > PlayerHealth.maxValue)
         {
             PlayerHealth.value = PlayerHealth.value;
         }
         else
         {
-            PlayerHealth.value += 0.25f*PlayerStats.getDrg();
+            PlayerHealth.value += 25f;
         }
     }
 

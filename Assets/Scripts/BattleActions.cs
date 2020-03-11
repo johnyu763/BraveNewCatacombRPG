@@ -115,7 +115,7 @@ public class BattleActions : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         this.transform.position = startPosition;
-        dmg.DmgEnemy(1f);
+        dmg.DmgEnemy();
         enemy.AttackAction();
 
     }
@@ -152,7 +152,7 @@ public class BattleActions : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         this.transform.position = startPosition;
-        dmg.DmgEnemy(1f);
+        dmg.DmgEnemy();
         enemy.AttackAction();
 
     }

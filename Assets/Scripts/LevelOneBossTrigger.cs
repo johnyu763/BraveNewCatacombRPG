@@ -3,7 +3,7 @@ using System.Collections;
 
 public class LevelOneBossTrigger : MonoBehaviour
 {
-    public GameObject BattleObject;
+    public InitBattle BattleObject;
     public GameObject MainLevel;
     public GameObject player;
     private Vector3 movePlace;
@@ -44,7 +44,13 @@ public class LevelOneBossTrigger : MonoBehaviour
     {
         anim.SetTrigger("Sword");
         yield return new WaitForSeconds(1f);
+        BattleObject.transform.position = new Vector3(
+           player.transform.position.x,
+           Terrain.activeTerrain.SampleHeight(transform.position) + 12f,
+           player.transform.position.z
+           );
+        BattleObject.UpdateValues();
         MainLevel.SetActive(false);
-        BattleObject.SetActive(true);
+        BattleObject.gameObject.SetActive(true);
     }
 }
